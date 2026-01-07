@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1767794982.83885 "c:/Users/PFMS2/OneDrive/Documents/Uni Lübeck/Git-2025-26/task/task1.tex" "task1.pdf" "task1" 1767794984.0451 0
+["pdflatex"] 1767795475.64563 "c:/Users/PFMS2/OneDrive/Documents/Uni Lübeck/Git-2025-26/task/task1.tex" "task1.pdf" "task1" 1767795476.79827 0
   "../diagram/image.png" 1767794950 11103 279fb9fb17818abc4a5dc57dd87f4658 ""
   "C:/Users/PFMS2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1767794496 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/PFMS2/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1767785613 31952 06eae07ff0336936f4e84cc2991f3fe9 ""
@@ -99,11 +99,11 @@
   "C:/Users/PFMS2/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/PFMS2/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/PFMS2/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/PFMS2/OneDrive/Documents/Uni Lübeck/Git-2025-26/task/task1.tex" 1767794981 3454 42a21abd3a1bd7b545bba3c9bd4b3764 ""
-  "task1.aux" 1767794983 1120 5a51833fcdc5e3dbf9ce42a13e22c7f7 "pdflatex"
-  "task1.out" 1767794983 477 7249817f385bec9cbdf4a9c34f86770c "pdflatex"
-  "task1.tex" 1767794981 3454 42a21abd3a1bd7b545bba3c9bd4b3764 ""
-  "task1.toc" 1767794983 354 8d97d30acbc2380490be0e4450efa2b0 "pdflatex"
+  "c:/Users/PFMS2/OneDrive/Documents/Uni Lübeck/Git-2025-26/task/task1.tex" 1767795422 3454 42a21abd3a1bd7b545bba3c9bd4b3764 ""
+  "task1.aux" 1767795476 1120 5a51833fcdc5e3dbf9ce42a13e22c7f7 "pdflatex"
+  "task1.out" 1767795476 477 7249817f385bec9cbdf4a9c34f86770c "pdflatex"
+  "task1.tex" 1767795422 3454 42a21abd3a1bd7b545bba3c9bd4b3764 ""
+  "task1.toc" 1767795476 354 8d97d30acbc2380490be0e4450efa2b0 "pdflatex"
   (generated)
   "task1.aux"
   "task1.log"
